@@ -23,3 +23,6 @@
 frontend/   → Código de Angular (interfaz de usuario)
 backend/    → Código de la API (Node.js + Express)
 docs/       → Documentación, diseños, wireframes
+
+🚧 Estado del proyecto
+🔨 En desarrollo (v0.1)
